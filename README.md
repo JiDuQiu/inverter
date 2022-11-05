@@ -6,3 +6,5 @@
 $ iverilog -o wave test_fxq.v tb_test_fxq.v  
 
 $ ./testlinshi
+
+然后使用gtkwave打开test.vcd文件观察波形。
